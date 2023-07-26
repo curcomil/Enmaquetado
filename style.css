@@ -1,0 +1,27 @@
+header{
+    display: inline-block;
+    background-color: green;}
+h1 {color: white;}
+nav{background-color: greenyellow;}
+/*header--------------------------- */
+
+aside {display: inline-block;
+background-color: orange;
+font-size: small;
+border-radius: 5px;}
+main {display: inline-block;
+background-color: red;}
+#aside_left {
+    display: inline-block;
+    width: 10%;
+    height: 700px;}
+#main {
+    width: 70%;
+    height: 700px;}
+#aside_right {
+    width: 10%;
+    height: 700px;}
+article {background-color: white;
+border: 8px; margin: 13px; border-radius: 5px};
+/*main------------------------ */
+footer {background-color: violet;}
